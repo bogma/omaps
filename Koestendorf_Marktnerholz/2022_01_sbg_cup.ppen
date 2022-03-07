@@ -1,18 +1,18 @@
 ﻿<course-scribe-event>
   <event id="1">
-    <title>1. Salzburg Cup 22</title>
+    <title>1. Salzburg Cup 2022</title>
     <map kind="OCAD" scale="10000" ignore-missing-fonts="false" absolute-path="C:\Users\Martin\Documents\GitHub\omaps\Koestendorf_Marktnerholz\Köstendorf_Marktnerholz.omap">Köstendorf_Marktnerholz.omap</map>
     <standards map="2017" description="2018" />
     <all-controls print-scale="7500" description-kind="symbols" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-70.91725" top="97.07125" right="75.95825" bottom="-114.955254" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
     <numbering start="76" disallow-invertible="true" />
     <punch-card rows="3" columns="8" left-to-right="true" top-to-bottom="false" />
-    <course-appearance scale-sizes="RelativeToMap" scale-sizes-circle-gaps="true" auto-leg-gap-size="3.5" blend-purple="true" />
+    <course-appearance scale-sizes="RelativeToMap" scale-sizes-circle-gaps="true" number-outline-width="0.2" auto-leg-gap-size="3.5" blend-purple="true" />
     <descriptions lang="de" color="purple" />
     <ocad overprint-colors="false" />
   </event>
   <control id="1" kind="start">
-    <location x="35.0205879" y="-15.3204975" />
+    <location x="34.6825256" y="-15.44727" />
   </control>
   <control id="2" kind="finish">
     <location x="2.76696944" y="-52.2226524" />
@@ -20,58 +20,56 @@
   </control>
   <control id="18" kind="normal">
     <code>83</code>
-    <location x="38.2333946" y="32.2118874" />
+    <location x="38.2333946" y="32.2964058" />
     <description box="D" iof-2004-ref="4.10" />
-    <description box="G" iof-2004-ref="11.1N" />
+    <description box="G" iof-2004-ref="11.1NW" />
   </control>
   <control id="17" kind="normal">
     <code>82</code>
-    <location x="34.0721855" y="20.8631268" />
+    <location x="34.0087967" y="21.0110321" />
     <description box="D" iof-2004-ref="1.12" />
   </control>
   <control id="16" kind="normal">
     <code>80</code>
-    <location x="35.5506859" y="5.98024273" />
+    <location x="35.60094" y="6.05562544" />
     <description box="D" iof-2004-ref="1.3" />
   </control>
   <control id="15" kind="normal">
     <code>79</code>
-    <location x="8.004969" y="12.5057793" />
+    <location x="8.155731" y="12.606287" />
     <description box="D" iof-2004-ref="1.3" />
   </control>
   <control id="13" kind="normal">
     <code>77</code>
-    <location x="-16.6858044" y="-6.468467" />
-    <description box="D" iof-2004-ref="1.10" />
-    <description box="G" iof-2004-ref="11.1N" />
-  </control>
-  <control id="14" kind="normal">
-    <code>78</code>
-    <location x="-3.56786036" y="21.808857" />
+    <location x="-16.6227512" y="-6.405414" />
     <description box="D" iof-2004-ref="1.10" />
     <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="12" kind="normal">
     <code>76</code>
-    <location x="22.1966553" y="-0.294232368" />
+    <location x="22.09886" y="-0.3193593" />
     <description box="D" iof-2004-ref="4.10" />
-    <description box="G" iof-2004-ref="11.1NW" />
+    <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="19" kind="normal">
     <code>84</code>
-    <location x="20.1749954" y="34.6521072" />
+    <location x="20.1538677" y="34.6309776" />
     <description box="C" iof-2004-ref="0.1N" />
     <description box="D" iof-2004-ref="1.12" />
+    <description box="E" iof-2004-ref="8.2" />
   </control>
   <control id="20" kind="normal">
     <code>85</code>
     <location x="30.9643478" y="44.1498451" />
-    <description box="D" iof-2004-ref="1.3" />
+    <description box="C" iof-2004-ref="0.1E" />
+    <description box="D" iof-2004-ref="1.8" />
+    <description box="G" iof-2004-ref="11.8N" />
   </control>
   <control id="21" kind="normal">
     <code>87</code>
     <location x="14.0408983" y="42.9073944" />
     <description box="D" iof-2004-ref="4.10" />
+    <description box="G" iof-2004-ref="11.1NW" />
   </control>
   <control id="22" kind="normal">
     <code>88</code>
@@ -81,113 +79,126 @@
   </control>
   <control id="23" kind="normal">
     <code>90</code>
-    <location x="-3.41795444" y="55.5692978" />
+    <location x="-3.60711575" y="56.23136" />
     <description box="D" iof-2004-ref="1.3" />
+    <description box="G" iof-2004-ref="11.3N" />
   </control>
   <control id="25" kind="normal">
     <code>92</code>
-    <location x="-44.69303" y="14.4066858" />
+    <location x="-44.8191376" y="14.469739" />
     <description box="D" iof-2004-ref="1.12" />
   </control>
   <control id="26" kind="normal">
     <code>93</code>
-    <location x="22.33679" y="25.5408344" />
+    <location x="22.37905" y="25.625349" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1NE" />
   </control>
   <control id="27" kind="normal">
     <code>94</code>
-    <location x="19.05905" y="-36.496727" />
+    <location x="19.4015369" y="-36.61089" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1SE" />
   </control>
   <control id="28" kind="normal">
     <code>95</code>
-    <location x="2.317649" y="-13.2600622" />
+    <location x="2.39302921" y="-12.9334106" />
     <description box="D" iof-2004-ref="5.9" />
     <description box="G" iof-2004-ref="11.6W" />
   </control>
   <control id="29" kind="normal">
     <code>96</code>
-    <location x="-7.804307" y="-25.18147" />
+    <location x="-7.88882351" y="-25.0969543" />
     <description box="D" iof-2004-ref="1.12" />
+    <description box="E" iof-2004-ref="8.2" />
   </control>
   <control id="30" kind="normal">
     <code>97</code>
     <location x="0.22714889" y="-30.859333" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1E" />
   </control>
   <control id="31" kind="normal">
     <code>100</code>
-    <location x="1.04601943" y="-45.91416" />
+    <location x="1.077546" y="-46.0717926" />
     <description box="D" iof-2004-ref="4.10" />
     <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="32" kind="normal">
     <code>101</code>
-    <location x="34.65896" y="1.17414165" />
+    <location x="34.21524" y="1.23752952" />
     <description box="C" iof-2004-ref="0.5" />
     <description box="D" iof-2004-ref="4.10" />
-    <description box="E" iof-2004-ref="4.10" />
+    <description box="G" iof-2004-ref="11.1N" />
   </control>
   <control id="33" kind="normal">
     <code>102</code>
-    <location x="4.77763128" y="30.6339912" />
+    <location x="3.25635481" y="30.9297943" />
+    <description box="C" iof-2004-ref="0.1W" />
     <description box="D" iof-2004-ref="4.9" />
     <description box="E" iof-2004-ref="8.10" />
+    <description box="G" iof-2004-ref="11.1W" />
   </control>
   <control id="34" kind="normal">
     <code>103</code>
-    <location x="0.647162437" y="16.889658" />
+    <location x="0.421019554" y="17.1660557" />
     <description box="C" iof-2004-ref="0.5" />
     <description box="D" iof-2004-ref="1.10" />
-    <description box="E" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1E" />
   </control>
   <control id="35" kind="normal">
     <code>104</code>
-    <location x="-14.4146519" y="9.242607" />
+    <location x="-14.3831244" y="9.337187" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1E" />
   </control>
   <control id="36" kind="normal">
     <code>105</code>
     <location x="33.2627258" y="-6.228023" />
     <description box="D" iof-2004-ref="5.9" />
-    <description box="G" iof-2004-ref="11.5NW" />
+    <description box="G" iof-2004-ref="11.8N" />
   </control>
   <control id="37" kind="normal">
     <code>107</code>
     <location x="9.714262" y="-0.949918449" />
     <description box="D" iof-2004-ref="5.15" />
+    <description box="G" iof-2004-ref="11.1S" />
   </control>
   <control id="38" kind="normal">
     <code>110</code>
     <location x="5.867394" y="19.2901325" />
-    <description box="D" iof-2004-ref="1.12" />
+    <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1E" />
   </control>
   <control id="39" kind="normal">
     <code>111</code>
-    <location x="-23.1396122" y="22.1454926" />
+    <location x="-23.2972469" y="22.1454926" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1NW" />
   </control>
   <control id="41" kind="normal">
     <code>112</code>
     <location x="24.12342" y="-11.9367161" />
     <description box="D" iof-2004-ref="1.10" />
-    <description box="G" iof-2004-ref="11.1NW" />
+    <description box="G" iof-2004-ref="11.1SW" />
   </control>
   <control id="42" kind="normal">
     <code>113</code>
     <location x="-7.634879" y="16.0735779" />
     <description box="D" iof-2004-ref="4.4" />
-    <description box="G" iof-2004-ref="11.3W" />
+    <description box="G" iof-2004-ref="11.8W" />
   </control>
   <control id="43" kind="normal">
     <code>114</code>
-    <location x="-29.9065056" y="9.306418" />
+    <location x="-30.034502" y="8.98737049" />
     <description box="D" iof-2004-ref="1.10" />
+    <description box="G" iof-2004-ref="11.1SW" />
   </control>
   <control id="44" kind="normal">
     <code>115</code>
-    <location x="12.9544668" y="10.1589117" />
+    <location x="12.7431784" y="10.2434263" />
     <description box="D" iof-2004-ref="6.1" />
+    <description box="G" iof-2004-ref="11.1SE" />
   </control>
   <control id="45" kind="normal">
     <code>117</code>
@@ -198,43 +209,43 @@
     <name>Lang</name>
     <labels label-kind="sequence" />
     <first course-control="1" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-77.91382" top="80.38258" right="68.9616852" bottom="-131.643921" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="180" description-kind="symbols" />
   </course>
   <course id="2" kind="normal" order="2">
     <name>Mittel</name>
     <labels label-kind="sequence" />
     <first course-control="23" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-78.14287" top="79.8540039" right="68.7326355" bottom="-132.1725" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="130" description-kind="symbols" />
   </course>
   <course id="3" kind="normal" order="3">
     <name>Kurz</name>
     <labels label-kind="sequence" />
     <first course-control="41" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-78.27663" top="79.85617" right="68.59888" bottom="-132.170334" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="80" description-kind="symbols" />
   </course>
   <course id="4" kind="normal" order="5">
     <name>Einfach</name>
     <labels label-kind="sequence" />
     <first course-control="43" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-78.20577" top="79.76895" right="68.66973" bottom="-132.257553" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="60" description-kind="symbols" />
   </course>
   <course id="5" kind="normal" order="6">
     <name>Family</name>
     <labels label-kind="sequence" />
     <first course-control="53" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-78.12637" top="79.7948456" right="68.74913" bottom="-132.231659" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="50" description-kind="symbols" />
   </course>
   <course id="6" kind="normal" order="4">
     <name>Senioren-Kurz</name>
     <labels label-kind="sequence" />
     <first course-control="76" />
-    <print-area automatic="true" restrict-to-page-size="true" left="-77.92323" top="80.1611" right="68.95227" bottom="-131.8654" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
-    <options print-scale="7500" description-kind="symbols" />
+    <print-area automatic="false" restrict-to-page-size="true" left="-77.44949" top="81.42662" right="69.42601" bottom="-130.599884" page-width="827" page-height="1169" page-margins="28" page-landscape="false" />
+    <options print-scale="7500" climb="80" description-kind="symbols" />
   </course>
   <course-control id="1" control="1">
     <next course-control="3" />
@@ -242,17 +253,19 @@
   <course-control id="2" control="2" />
   <course-control id="3" control="12">
     <next course-control="4" />
+    <number-location x="-3.52010918" y="3.9859705" />
   </course-control>
   <course-control id="4" control="13">
     <next course-control="97" />
-    <number-location x="-1.40058136" y="5.030646" />
+    <number-location x="-1.40058136" y="5.792128" />
   </course-control>
   <course-control id="97" control="34">
     <next course-control="6" />
+    <number-location x="4.69963169" y="2.54069519" />
   </course-control>
   <course-control id="6" control="15">
     <next course-control="7" />
-    <number-location x="-4.26720572" y="-2.66779232" />
+    <number-location x="-4.3954215" y="-2.66837215" />
   </course-control>
   <course-control id="7" control="16">
     <next course-control="8" />
@@ -263,21 +276,23 @@
   </course-control>
   <course-control id="9" control="18">
     <next course-control="11" />
-    <number-location x="-3.34109116" y="3.39547729" />
+    <number-location x="5.485798" y="-0.7140236" />
   </course-control>
   <course-control id="93" control="19">
     <next course-control="94" />
+    <number-location x="6.825941" y="0.253799438" />
   </course-control>
   <course-control id="11" control="20">
     <next course-control="12" />
-    <number-location x="2.73209" y="4.63260651" />
+    <number-location x="2.73209" y="5.39408875" />
   </course-control>
   <course-control id="12" control="21">
     <next course-control="93" />
+    <number-location x="-3.22026539" y="4.67955" />
   </course-control>
   <course-control id="13" control="22">
     <next course-control="14" />
-    <number-location x="-6.169222" y="2.646202" />
+    <number-location x="-8.708366" y="0.5394783" />
   </course-control>
   <course-control id="14" control="23">
     <next course-control="15" />
@@ -291,27 +306,27 @@
   </course-control>
   <course-control id="17" control="26">
     <next course-control="18" />
-    <number-location x="-6.21540642" y="1.49809265" />
+    <number-location x="-6.39642143" y="2.58415222" />
   </course-control>
   <course-control id="18" control="27">
     <next course-control="19" />
-    <number-location x="1.64749527" y="-5.6310463" />
+    <number-location x="1.87268448" y="-6.56913376" />
   </course-control>
   <course-control id="19" control="28">
     <next course-control="20" />
-    <number-location x="-5.68415976" y="1.71098518" />
+    <number-location x="-6.5979476" y="1.71098518" />
   </course-control>
   <course-control id="20" control="29">
     <next course-control="21" />
-    <number-location x="-6.466794" y="3.593546" />
+    <number-location x="-5.57084" y="4.105524" />
   </course-control>
   <course-control id="21" control="30">
     <next course-control="22" />
-    <number-location x="7.0570364" y="-0.75177" />
+    <number-location x="7.0570364" y="-3.18365479" />
   </course-control>
   <course-control id="22" control="31">
     <next course-control="2" />
-    <number-location x="-4.971967" y="-4.19032669" />
+    <number-location x="-6.34263372" y="-2.97195053" />
   </course-control>
   <course-control id="23" control="1">
     <next course-control="25" />
@@ -319,34 +334,41 @@
   <course-control id="24" control="2" />
   <course-control id="25" control="32">
     <next course-control="90" />
+    <number-location x="3.71298981" y="2.771333" />
   </course-control>
   <course-control id="26" control="15">
     <next course-control="27" />
+    <number-location x="2.05857944" y="5.61590767" />
   </course-control>
   <course-control id="27" control="17">
     <next course-control="99" />
+    <number-location x="5.70013046" y="-0.221330643" />
   </course-control>
   <course-control id="28" control="19">
     <next course-control="92" />
+    <number-location x="5.163414" y="-0.107124329" />
   </course-control>
   <course-control id="94" control="33">
     <next course-control="13" />
-    <number-location x="-12.7154236" y="1.92821121" />
+    <number-location x="-11.8505058" y="1.76916885" />
   </course-control>
   <course-control id="92" control="33">
     <next course-control="31" />
+    <number-location x="4.637496" y="-3.569252" />
   </course-control>
   <course-control id="31" control="23">
     <next course-control="96" />
   </course-control>
   <course-control id="32" control="13">
     <next course-control="33" />
+    <number-location x="-8.607639" y="-1.10832357" />
   </course-control>
   <course-control id="33" control="25">
     <next course-control="35" />
   </course-control>
   <course-control id="96" control="22">
-    <next course-control="101" />
+    <next course-control="107" />
+    <number-location x="-8.955189" y="1.31220627" />
   </course-control>
   <course-control id="35" control="34">
     <next course-control="36" />
@@ -354,18 +376,23 @@
   </course-control>
   <course-control id="36" control="28">
     <next course-control="37" />
+    <number-location x="-5.88604832" y="1.46315765" />
   </course-control>
   <course-control id="37" control="29">
     <next course-control="38" />
+    <number-location x="-7.233821" y="3.1734314" />
   </course-control>
   <course-control id="38" control="30">
     <next course-control="39" />
+    <number-location x="7.538241" y="0.022983551" />
   </course-control>
   <course-control id="39" control="31">
     <next course-control="24" />
+    <number-location x="-7.586988" y="-2.68915939" />
   </course-control>
   <course-control id="40" control="35">
-    <next course-control="98" />
+    <next course-control="106" />
+    <number-location x="-4.917491" y="3.943181" />
   </course-control>
   <course-control id="41" control="1">
     <next course-control="64" />
@@ -377,27 +404,34 @@
   <course-control id="44" control="2" />
   <course-control id="45" control="36">
     <next course-control="46" />
+    <number-location x="-0.227386475" y="6.28035355" />
   </course-control>
   <course-control id="46" control="37">
     <next course-control="47" />
+    <number-location x="-3.59798" y="-4.15652752" />
   </course-control>
   <course-control id="47" control="17">
     <next course-control="49" />
+    <number-location x="4.967869" y="-0.257568359" />
   </course-control>
   <course-control id="48" control="35">
     <next course-control="50" />
+    <number-location x="5.96738338" y="-2.55300236" />
   </course-control>
   <course-control id="49" control="38">
-    <next course-control="52" />
+    <next course-control="109" />
   </course-control>
   <course-control id="50" control="29">
     <next course-control="51" />
+    <number-location x="6.211211" y="-0.0979805" />
   </course-control>
   <course-control id="51" control="31">
     <next course-control="44" />
+    <number-location x="-6.680685" y="-2.861805" />
   </course-control>
   <course-control id="52" control="39">
-    <next course-control="48" />
+    <next course-control="110" />
+    <number-location x="-2.786543" y="6.11088" />
   </course-control>
   <course-control id="53" control="1">
     <next course-control="56" />
@@ -405,30 +439,38 @@
   <course-control id="54" control="2" />
   <course-control id="56" control="41">
     <next course-control="57" />
+    <number-location x="-3.06347466" y="-4.38558769" />
   </course-control>
   <course-control id="57" control="37">
     <next course-control="63" />
+    <number-location x="-5.81339359" y="-3.75103068" />
   </course-control>
   <course-control id="58" control="42">
     <next course-control="59" />
   </course-control>
   <course-control id="59" control="39">
     <next course-control="60" />
+    <number-location x="-2.938757" y="5.95866966" />
   </course-control>
   <course-control id="60" control="43">
     <next course-control="61" />
+    <number-location x="-5.40438843" y="-0.0397338867" />
   </course-control>
   <course-control id="61" control="35">
-    <next course-control="62" />
+    <next course-control="111" />
+    <number-location x="-3.16522312" y="-6.206048" />
   </course-control>
   <course-control id="62" control="31">
     <next course-control="54" />
+    <number-location x="-4.92578554" y="-3.30176544" />
   </course-control>
   <course-control id="63" control="44">
     <next course-control="58" />
+    <number-location x="4.359042" y="-4.82387257" />
   </course-control>
   <course-control id="64" control="45">
     <next course-control="102" />
+    <number-location x="-4.3986" y="0.391620159" />
   </course-control>
   <course-control id="102" control="12">
     <next course-control="66" />
@@ -437,86 +479,121 @@
     <next course-control="75" />
   </course-control>
   <course-control id="67" control="33">
-    <next course-control="68" />
+    <next course-control="108" />
+    <number-location x="-0.527823448" y="7.26678467" />
   </course-control>
-  <course-control id="68" control="14">
+  <course-control id="108" control="34">
     <next course-control="69" />
+    <number-location x="-3.220265" y="4.22291756" />
   </course-control>
   <course-control id="69" control="35">
     <next course-control="70" />
+    <number-location x="-4.43794727" y="0.2654562" />
   </course-control>
   <course-control id="70" control="13">
     <next course-control="71" />
+    <number-location x="-6.03334427" y="-0.351271152" />
   </course-control>
   <course-control id="71" control="28">
     <next course-control="72" />
+    <number-location x="-1.37728977" y="5.028679" />
   </course-control>
   <course-control id="72" control="29">
     <next course-control="73" />
+    <number-location x="-5.711726" y="3.78227234" />
   </course-control>
   <course-control id="73" control="30">
     <next course-control="74" />
   </course-control>
   <course-control id="74" control="31">
     <next course-control="42" />
+    <number-location x="-7.73919439" y="-2.99357986" />
   </course-control>
   <course-control id="75" control="17">
     <next course-control="103" />
+    <number-location x="5.24348068" y="-0.221330643" />
   </course-control>
   <course-control id="76" control="1">
     <next course-control="77" />
   </course-control>
   <course-control id="77" control="45">
     <next course-control="104" />
+    <number-location x="-5.547915" y="-0.387512684" />
   </course-control>
   <course-control id="104" control="12">
     <next course-control="79" />
+    <number-location x="2.65592384" y="5.106026" />
   </course-control>
   <course-control id="79" control="15">
     <next course-control="105" />
+    <number-location x="-4.58521366" y="-2.68683434" />
   </course-control>
   <course-control id="81" control="33">
-    <next course-control="82" />
+    <next course-control="112" />
+    <number-location x="0.0810174942" y="6.049103" />
   </course-control>
-  <course-control id="82" control="14">
+  <course-control id="112" control="34">
     <next course-control="83" />
+    <number-location x="-2.611424" y="4.98396873" />
   </course-control>
   <course-control id="83" control="35">
     <next course-control="85" />
+    <number-location x="-5.54791546" y="-0.5397186" />
   </course-control>
   <course-control id="85" control="28">
     <next course-control="86" />
+    <number-location x="-4.694675" y="0.191181183" />
   </course-control>
   <course-control id="86" control="29">
     <next course-control="87" />
+    <number-location x="-4.59750271" y="-3.849865" />
   </course-control>
   <course-control id="87" control="30">
     <next course-control="88" />
+    <number-location x="4.88728571" y="4.2920723" />
   </course-control>
   <course-control id="88" control="31">
     <next course-control="89" />
+    <number-location x="-7.13035345" y="-3.14578629" />
   </course-control>
   <course-control id="89" control="2" />
   <course-control id="90" control="12">
     <next course-control="26" />
+    <number-location x="0.285158157" y="-7.42979336" />
   </course-control>
-  <course-control id="98" control="14">
+  <course-control id="106" control="42">
     <next course-control="17" />
+    <number-location x="-0.129358292" y="5.395046" />
   </course-control>
   <course-control id="99" control="20">
     <next course-control="100" />
   </course-control>
   <course-control id="100" control="21">
     <next course-control="28" />
+    <number-location x="-3.37247181" y="4.070709" />
   </course-control>
-  <course-control id="101" control="14">
+  <course-control id="107" control="34">
     <next course-control="32" />
   </course-control>
   <course-control id="103" control="19">
     <next course-control="67" />
+    <number-location x="5.38097954" y="2.79569626" />
   </course-control>
   <course-control id="105" control="19">
     <next course-control="81" />
+    <number-location x="4.947771" y="1.25741577" />
+  </course-control>
+  <course-control id="109" control="42">
+    <next course-control="52" />
+    <number-location x="-0.316139221" y="6.13349342" />
+  </course-control>
+  <course-control id="110" control="43">
+    <next course-control="48" />
+    <number-location x="-5.099968" y="-0.6485748" />
+  </course-control>
+  <course-control id="111" control="29">
+    <next course-control="62" />
+    <number-location x="5.450156" y="-0.25019455" />
   </course-control>
   <leg id="1" start-control="25" end-control="26">
     <bends>
@@ -528,6 +605,11 @@
       <location x="26.4997482" y="-0.234046936" />
     </bends>
   </leg>
+  <leg id="3" start-control="42" end-control="26">
+    <bends>
+      <location x="-1.765255" y="21.322731" />
+    </bends>
+  </leg>
   <special-object id="2" kind="rectangle">
     <appearance line-kind="single" color="1.00,0.00,0.00,0.00" line-width="0.35" corner-radius="0.3" />
     <location x="-72.7893" y="75.05167" />
@@ -535,8 +617,8 @@
     <courses all="true" />
   </special-object>
   <special-object id="4" kind="descriptions">
-    <location x="-71.12613" y="-6.02000046" />
-    <location x="-66.506" y="-6.02000046" />
+    <location x="-72.08226" y="1.15094376" />
+    <location x="-67.46213" y="1.15094376" />
     <courses>
       <course course="1" />
     </courses>
@@ -545,20 +627,20 @@
     <text>Marktnerholz</text>
     <font name="Roboto" bold="true" italic="false" />
     <appearance color="1.00,1.00,0.00,0.00" />
-    <location x="13.501687" y="-88.9775" />
-    <location x="52.39444" y="-95.857666" />
+    <location x="21.2969284" y="-76.405014" />
+    <location x="60.189682" y="-83.28518" />
     <courses all="true" />
   </special-object>
   <special-object id="6" kind="descriptions">
-    <location x="-71.58423" y="-33.5092163" />
-    <location x="-66.89662" y="-33.5092163" />
+    <location x="-71.58423" y="-20.0131683" />
+    <location x="-66.89662" y="-20.0131683" />
     <courses>
       <course course="2" />
     </courses>
   </special-object>
   <special-object id="7" kind="descriptions">
-    <location x="-71.85174" y="-49.05262" />
-    <location x="-67.25636" y="-49.05262" />
+    <location x="-71.55183" y="-44.5539322" />
+    <location x="-66.95645" y="-44.5539322" />
     <courses>
       <course course="3" />
     </courses>
@@ -571,17 +653,55 @@
     </courses>
   </special-object>
   <special-object id="9" kind="descriptions">
-    <location x="-71.71004" y="-67.61872" />
-    <location x="-67.1155" y="-67.61872" />
+    <location x="-71.4101257" y="-58.0215378" />
+    <location x="-66.81559" y="-58.0215378" />
     <courses>
       <course course="4" />
     </courses>
   </special-object>
   <special-object id="10" kind="descriptions">
-    <location x="-71.55124" y="-67.43603" />
-    <location x="-66.9458847" y="-67.43603" />
+    <location x="-71.55124" y="-62.63743" />
+    <location x="-66.9458847" y="-62.63743" />
     <courses>
       <course course="5" />
     </courses>
+  </special-object>
+  <special-object id="11" kind="text">
+    <text>Maßstab: $(PrintScale)</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="1.00,1.00,0.00,0.00" />
+    <location x="24.3031235" y="-84.62742" />
+    <location x="52.7007751" y="-88.54222" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="12" kind="text">
+    <text>Äquidistanz: 5 m</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="1.00,1.00,0.00,0.00" />
+    <location x="24.2152634" y="-89.16879" />
+    <location x="49.4017334" y="-93.34082" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="13" kind="text">
+    <text>Stand: 02-2022</text>
+    <font name="Roboto" bold="true" italic="false" />
+    <appearance color="1.00,1.00,0.00,0.00" />
+    <location x="24.2152481" y="-93.94064" />
+    <location x="47.30237" y="-98.1394043" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="15" kind="image">
+    <text>north_arrow.png</text>
+    <image-data format="png">iVBORw0KGgoAAAANSUhEUgAAAKAAAAE7CAMAAABtx3orAAAABGdBTUEAALGPC/xhBQAAAJBQTFRF////M2aZ0OHx/f39L2SY1eX0KWCVi6fGUXikxs/dEFeR1ub1HVuTIV2UJV+Ve5a2ztbhAFOPbpC2+Pn76OzxxdjrvtLmsb/S3OLq5+vxf5m4y93uPm6eqLjNSHKguMXWk6jCYoSrWn6nrsXcfpi4jqS/mrTPnrDIc5CywczbtMrgl7LOZ4etgqHBo7zV1dzlPmivuwAAEGtJREFUeF7NnelC8joQhg0kEUtbZBMVREH9VNzu/+7OTJtCl6wtPc7zR6gVXpNmOjOZpBdn5vpavaAKeYEPH+oFVV5f1Quq3D+pF1TZbNULqmw26gVR5pzP1UuaLKJooV7S5C4mLnCVJo/qJU1WabpSL2kykSltQ/jF+Zd6SRPqAodTxqZD9YYkEWMRZYG/MQikbAivEsaSK/WGIo/UBd5LxuSLekORVxRI2aceccb4SL2hCAxixmL1hiIwRmCUqDcEQTMILXir3tLjlrrAh7yL6bqsbykKTN/UW3o8gRkEQ0jXZd2CGQRDSDd2RztN2VLP00wgY1Q9wgW4qwhZjzA3g4QFrjIzCIaQamiM7momkKqlRncVkffqADXeC4EzdYAae2Vl5Ls6QA2I2nOm6gA1lBkEO6MOEONamUGyHmFJIM3ppo+TQJrTTa+Zu4qkNENj8gI3ygyCR7hTh2ghTwKlOkSK+bGHiQosvEGEpCG8Kwu8UwcpUbirCEmX9eF0DbL0QR2kxMkMEhWYB8U5JEPjwl1F+F4dJMT86A0CFOfdKwJZRE9g2QySNIRFUJxDMDT+qAqk57JOVFCcQzCJWUTtOQRD47KdBjtDb979GLXn0IvdK2aQYOyeTzKdiH/VL6hwitpzyMXuVTsNhpCawLI3iJALjZ/qAqlZaqXrCDmXdaOEnVC/IMKQV24k6LLSmm66q9lpsNS0PMKqu4rEtKabykFxDrEkZl4MUCahFRoXk0wnJK3CgHJQnEMsNN41BZLKss4bgxhGCaXQuBq155CK3cvZ1QJSWdbTHM4JUoaw7q4iMaVS0WrUnkPKZW3aabDUlGpZm3aamKWuRe05lGJ3jRkkFbvXg+IcQqFxPa2QQyi5sGq4qwghS10PinMIhcZ57WodQrWsp7n2MpzOKsq8drUOnVrW+akYoAyXVDzCojS0DplKTJ27ipAR2Izac8jMu+vtNNgZKgLr2dUCMi5rMyjOIRMaUxeICzr1UFnmaTCDYGdoCNR7gwiReXdc0KmHyCpK8gJ1QXEOkZp58gL13iBCxCM0DmIYxuqUv8UikMQyT7MZhBakkMQ0uasICYG65GUBiQopfVCcQyI01qcVckgkF8xmkIghrNZEVaFQGDC3jBHg7z1CU9SeQyA0XljMIBjCvxdYrpBvQiB2t9lpEpba7A0iBDzCamlonT8vFV2sTFF7Dt//4SgZXj3xqFjWbgLOeP/4k0Tm7ySN4S7s0AdwmcSv//eczuJhFEnOZJraexiQ2Mbwv9z/j339+z5NQF3CZp/Lpf1Ox5Kbn/cNnM1ltPufmvF6F0n4Pjn7WQshbpwChVj/zDKN8eh/COR/9zF8Vbr9XgoxGAzEp8UbRNJPOA01juCS4HHfpa2LSQR9K3eHwRjUeQvEEweHWQotH2/7nGJcYefGu+f8O5HxzDFI5PfxZHHzzfDvJ30Nl+tRDJ27O2R9qxi7RjHfq7YGxHg5gzEto34K4+6xd7c/JXWAcArcVf5AHGZwDcf78ycO71gKRvl7XdU3WNdrV+twvlanFvyMUjBR527E1ZSz9Ovm1F2KtdVVQGRdoBhcphxMzjnvf8MdXH38stZ6gDi4BR4afyYO0IicnW+sLLYpS7c3TX0D8eOwMmBnalctItbvMefTc9nE24hz+V3vqQzxz9mCOoH4n4Hdjs4zE/WQMJ78a1x9GU4zCF080f6pOGwlS3ZniEofIi43zesoZzxxCuTv+v9NLL8SuHDUt7TnIWJypLv8MpxmsGEIT4jBt+Ry27ENUd+ubvxKNNcYNNioU5uMP1MuuyVHXPq6CURXA9pQfVcbMn3QFybEwZpWyIlNFzAgPhNow9a9/OhqP3FwuKtIYhGYtWHadpHgLfx3e5s+tzeI6A1hAX5E0s4e3sHtbWvVNxCXTjtd8Qh1jCcJi1slYtFHt/UOINxm0ClwMJilLGpx15sk3Hr1IGNbdrWAj/SW+sRMsmmwb7OCAaLCCTPnESiWWx6czJ6DvplL32CpNDhYqtNNiGfJQ0tYNvA/af2XCksPMwiG0CVwML6EyzAoZn5LmCzFbiXEuIQras+J1+p0iPPVpzTYQbgXcBneRSzR+M+A+DcroavvbsJ3+dnvP4D6nBpiuQnqZLho9+pPa4jLRJ7w0gcK1dlpGu8MAwb8BhZ5h/SPMUsP6i9roGlW33dC6TCQIOpMubd0sn9JKVyAL4YPAoF8cz+pYr0S+dXHx8cqP/F+O52YPvgGHGzPWPQebrCmEYwCGx4cbpNtorY/0zU3NaHAkezl1yxilvwzfwwKHFa4GCbmixEEqtOQiytm7OPByHOcvEq+VX/SRCdwiBetCX+B4ifxWrE6n7LU2IB6gUNbZYp/C0IT+iySeU0tDWgSeGus0AsQiFmAqTPdADdh8xVoEjg0VokGtSA24UTpMHJvbUCTwGFjjXtBiEC4CnnsGsjgolsa0CxQt7IOCWrBwZYnjjIM+B5LmGgWODRVBgQJBFvoup3AVWD10M0CDTPvYS0IDqZ9oRF8i93PNwocahZpI2ECxYzb50efJDffzhGLwKHWGIYJHDwn9vCEuwIRs0D4cl0nBwoES2ObpP+NmbxRZ+qxCBxq57YDBcLnS0ui4SFx9LBd4EIzeRzagtDHibmPwZ9whJo2gTBOmsYwVOBgw2JjH8MY1uTkK1gFwv2k0YShAsXE0scfCR+p80w4BN42xklwC0IfGzdaeZGmhPKRpsC5+plxMak7DcECl4xHprrNLbenyoCGwPmqImBeH8jBAgd7blp8jp6WMV2uaLYg2FX1Cmk418ECx3AzMVQDgRXcuNIdDYEX09eK3rpzHSxQ/EsZV4pqvKXlyV09TYHR9LbyvuZch3fxEkITvVMIA1yf7yihEVjr8ixqPREucA2WUJ9j2PBWAln8UDkwryxFDRc43ptux+DOulKqWoGMWcZJC4E7rq9uhvtIbPcUAK1AcOHUu4yLr5KtCRcoPqU+dAKB7pylvgWj38qh21KmoYVA+Aqt379K+Nbrr5sCOSsfGpaL01sIPIAQpanCCgLOlgIxL6XeZ4DjWxAucHADdkYXv4NA08zpCYNAHlfHyXV2FDmrQPntstMmgQxcJHUg4+RctxEYVwTOCx66CGTRR+XoMQhtIRDC97LA+2mUg5UiGwUzZReMAvkG4roTR+c6QOBagfmF69uCapkxVxjzR0aBLHkrHz46Df4Cl5HKY2NuPokLLr6KFuTQCgXhLcjY9K5y/Df/hb/AtT67c7oGv3iXaxCkVI4X4yRA4FS1WVxtwSNfsptAjMbUQUQ51wECl4o1XIMf1wVKHYCj2PjXBTaBWqchYJAUiOooPtLJDmYkT+Xf5Bm5FgJrZuYI3Em+OrYghGPqMJIFoS0E1gz1kS73YgV4IepwBi4YayPQcKv7jTsLZHE1CB3GvJVAvTcDd6eNc+rZIZCn1fvJVRQuEEtpTAJbetQl0kn5l8OLvQwXCF+hdViHMAxdcbtTIBaYqN8gEIQGCxy/mB61PmoZ1VXgo2onP8XBAveGoAkcdbeldgqsjZPhRSUa8BFojovBzrTJLChhR8BEqN8hF1fBAhPTajxcah2em2kIrAeh6meGh8BsSlEpqjGPWOoaxh4CsQJG/bKBj0AIi01TJRsubfN0iI/A2v2kjI/AmWkQ41SxsxzKRyAue1a/reNzDcI4MxUhuWYSAS+BPKmMkxJugVh8b5xrwoqy0Cy/TmDduT7hIRC+wLw3pdtU+wnEnf3U76t4dLHRTCNvqWsewlMgk3Dr1OAWeJOiV2niDvwFu0PjKzCtZq4LnALx821T2ltuLQjwF1gLQgucAo3ZS8WDa67JWyBc6eqMMk6BN5xbi3vAJ0ytLpe3wFoQqnAJdBct7Lg01adl+AusZeRynC0IIbF9VfwV2GrbMPEXyNL7YIHiRzLXropwhs0UBgisOdcZLoEzd+nRg90UhgiE0EeddMQuEIscnXWiECkmlinPEIEsrmbkAIfAmfQo+J7YygfDBDJedxqsAgXcRTx2v11MbQsswgQ2xold4Iw7bEzOve0qDBPYGCdWgWCkvfZRX0iWXpqCp0CB4DSo83JsArEB/ZYcYBGWfxWwXWD9xmoWKJ5j34euDC0rIVDg9lclPzMc5fyxOk3xZm7BPbfVHFUA19/kWePNUkYqfYw49JWzzXEcTacmgeISwmHvZdF76Ed9J4vL7XbiXtCph88OB0MJ/uDAecCi6LuEp4Z0sBBi/N5W4PvYuEgPF1aob/fhIeZcv54E8Vul0cS0xAL8VKyTD9rfYARDfmlS6LFeUo8pqBXPHI16CHA/kTP153XW5xYoltAehloZI4+4KEd7GXot6NRjsg24bi14Y4P7FO7JOoVeCzr16KtKxp9J4JKrjOEGbt3ahfc+6yX1aL0QXCcfeAHmzOG62GjSceLbVLfvJNVkcHFDGOnjxDT5jbSGQXy3bkFNilncYE8FrFgr86sdymPbfn52+LZ+UWf63Gs0TDzFLG0o9FrQqaexzDPTF2ahq+gUei7o1FIrbRI3W2i/DvoyhfVdDPwWdOqppqY6tx/yBCOlYm06mEEwhGWB4geu5jZLn6vgTgHb59O147Wu3UQ5dzbG7T7OsSHJdcR5eso2YI1pa04CcZ8Kxs+zidT1FJzJl2I5/lj30ChfjjuTiOUeXHPW0v7VmbMUhsoh/2znNkw2uFodK55xr5T9mfQBExgq7DK3EZ0EfqFAsf7GnZnOunfiI3bzPhvNvquK9cA/OX7eQo/wM28+eTdKsn17xMC1T5QNzgfj9beEf3YU7P85ecMKCfb53GGMgMLnTyaZjG2J8tbcbuEeIlv7+zkp/H/xrq9tqldRBxuo4AnrcevT+dO00xABfenT+YyLjkUXKwP6uu5x5GRuz2a5oS6w96d52ja596H3J4KY1hH7Yl40dyY6C+z7IXb2zZPd9L698ktXgc5V9h1pH3Pm9L7/s3FDBV/6fppnVzvd99M89U/oDKHnB250tdMgsGOg7sC+h7wPPe8z/9TRysAw7veBG7ZnffjR8wPom2vEQ+n5scb6R4iG4DVn3Zq5a5d7H9Rn9cJxsVcHPCeF22F/1ocfvT4RxPSEzhBS/1nXcExP6Ayh16d5dnVXEWt9YFe6BcU5vT4ss+1Udhnedl9YD+Zud9UjOefcuao9Q6cZhEHkHEc9Ps3T9uQ3REbgqjxFjkbs0WX9sHuD0SyzwYuR/f9I+guNrQITfvSVP5j1xPDZdV8sQXEtq/sWm0/t8bHGRjvN410tazXf4SpcLT0mFwzeIE82mimta3yqi44eLbXeyhhX0DxhxlxDf6GxbnTy+N3oPy3etSant8eN6oLiZGSNc69GmvHcW2jctNOpO0Z7k41bS2+Wuv5oOh75PB1qgY+GqdCbIaw9oTPeek5HX+MUVYnePMLKVqHpNMAzXk3L47k3gaWKHh69Bs0nzMvj2bMaOZxTdjXeBw/E3/2xn/sSOC+cUTltlaF6LPqZh+wuHoCK2nn00vLz5y+qn7WbAHTnDvsI7rsdrNhtfn/uSSCaQRl1jGrxcWN9JTEfExi76nUH3mPrRqEdmETnqYS4G037ybK+ny2W+PCezbm4+A8cuUE7slW/nAAAAABJRU5ErkJggg==</image-data>
+    <location x="-70.31913" y="71.9514847" />
+    <location x="-58.1386566" y="47.9853249" />
+    <courses all="true" />
+  </special-object>
+  <special-object id="16" kind="image">
+    <text>north_arrow(1).png</text>
+    <image-data format="png">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</image-data>
+    <location x="49.78322" y="-97.23771" />
+    <location x="61.82589" y="-120.932732" />
+    <courses all="true" />
   </special-object>
 </course-scribe-event>
